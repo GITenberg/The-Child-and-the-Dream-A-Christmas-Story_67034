@@ -1,11 +1,16 @@
 _repo: The-Child-and-the-Dream-A-Christmas-Story_67034
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67034-h/images/cover.jpg
 creator:
   author:
     agent_name: Cook, Marion
     gutenberg_agent_id: '54086'
     url: http://www.gutenberg.org/2009/agents/54086
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67034#The-Child-and-the-Dream-A-Christmas-Story
 gutenberg_issued: '2021-12-29'
 identifiers:
   gutenberg: '67034'
